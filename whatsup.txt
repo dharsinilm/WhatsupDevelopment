@@ -1,0 +1,13 @@
+THIS IS WHATSUP CODE
+
+Author: dharsinilm
+
+1. Profile page code
+
+2. chat screen code
+
+3. Status update code
+
+4. Last seen code
+
+5. Attachments (Images, Audio ,Video) code
