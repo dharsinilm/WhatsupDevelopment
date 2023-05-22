@@ -13,3 +13,4 @@ Author: dharsinilm
 5. Attachments (Images, Audio ,Video) code
 
 6. Hiding the last seen
+7. Adding video audio record
