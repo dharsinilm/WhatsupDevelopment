@@ -11,3 +11,5 @@ Author: dharsinilm
 4. Last seen code
 
 5. Attachments (Images, Audio ,Video) code
+
+6. Hiding the last seen
